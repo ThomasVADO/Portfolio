@@ -4,4 +4,3 @@ Ici nous parlerons de la veille technologique.
 <a href="index.md">Accueil du site</a>
                             
 <!-- Lien en markdown vers la racine du site (README.md) -->
-[Accueil du site](.)
