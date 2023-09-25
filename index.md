@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -13,12 +13,10 @@
     <!-- Section Projets -->
     <section id="projets">
         <div class="projet_stage">
-            <img src="projet1.jpg" alt="Projet 1">
             <h2>Projet 1</h2>
             <p>Description du projet 1.</p>
         </div>
         <div class="projet_veille">
-            <img src="projet2.jpg" alt="Projet 2">
             <h2>Projet 2</h2>
             <p>Description du projet 2.</p>
         </div>
