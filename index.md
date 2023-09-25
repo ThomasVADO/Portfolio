@@ -17,7 +17,7 @@
             <h2>Projet 1</h2>
             <p>Description du projet 1.</p>
         </div>
-        <div class="projet">
+        <div class="projet_veille">
             <img src="projet2.jpg" alt="Projet 2">
             <h2>Projet 2</h2>
             <p>Description du projet 2.</p>
