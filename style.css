@@ -1,0 +1,84 @@
+/* Reset des styles par défaut */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style de base pour le corps du site */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+/* Style de l'en-tête */
+header {
+    background-color: #6a1b9a;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Style du titre de l'en-tête */
+header h1 {
+    font-size: 2em;
+}
+
+/* Style de la section Projets */
+#projets {
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+/* Style des boîtes de projets */
+.projet_stage,
+.projet_veille {
+    background-color: #9c27b0;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.projet_stage:hover,
+.projet_veille:hover {
+    background-color: #673ab7;
+}
+
+/* Style de la section À propos de moi */
+#apropos {
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style de la section Contact */
+#contact {
+    background-color: #9c27b0;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style du pied de page */
+footer {
+    background-color: #6a1b9a;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Liens */
+a {
+    color: #673ab7;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #9c27b0;
+}
