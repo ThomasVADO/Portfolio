@@ -9,7 +9,7 @@
     <header>
         <h1>Mon Portfolio</h1>
     </header>
-    <section id="veille">
+    <section id="ban">
         <div class="veille_header">
             <img src="veille.jpg" alt="Projet 1">
             <h2>VEILLE TECHNOLOGIQUE</h2>
