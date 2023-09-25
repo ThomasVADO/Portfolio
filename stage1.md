@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mon Portfolio</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Créez un fichier CSS externe pour personnaliser le style -->
+    <link rel="stylesheet" href="style.css"> <!-- Créez un fichier CSS externe pour personnaliser le style -->
 </head>
 <body>
     <header>
