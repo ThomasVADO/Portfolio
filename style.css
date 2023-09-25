@@ -26,30 +26,28 @@ header h1 {
     text-transform: uppercase;
 }
 
+/* Style du conteneur principal */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
 /* Style de la section Projets */
 #projets {
     background-color: #fff;
     padding: 40px 0;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     flex-wrap: wrap;
 }
 
 /* Style des boîtes de projets */
-.projet_stage {
-    background-color: #3498db;
-    color: #fff;
-    text-align: left;
-    padding: 30px;
-    margin: 20px;
-    border-radius: 10px;
-    transition: background-color 0.3s, transform 0.3s;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
+.projet_stage,
 .projet_veille {
     background-color: #3498db;
     color: #fff;
-    text-align: right;
+    text-align: center;
     padding: 30px;
     margin: 20px;
     border-radius: 10px;
