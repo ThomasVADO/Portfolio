@@ -9,10 +9,10 @@
     <header>
         <h1>Mon Portfolio</h1>
     </header>
-    <section id="projets">
-        <div class="projet">
-            <img src="projet1.jpg" alt="Projet 1">
-            <h2>Projet 1</h2>
+    <section id="veille">
+        <div class="veille">
+            <img src="veille.jpg" alt="Projet 1">
+            <h2>VEILLE TECHNOLOGIQUE</h2>
             <p>Description du projet 1.</p>
         </div>
         <div class="projet">
