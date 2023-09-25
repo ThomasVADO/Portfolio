@@ -12,7 +12,7 @@
     </header>
     <!-- Section Projets -->
     <section id="projets">
-        <div class="projet">
+        <div class="projet_stage">
             <img src="projet1.jpg" alt="Projet 1">
             <h2>Projet 1</h2>
             <p>Description du projet 1.</p>

@@ -26,7 +26,14 @@ section {
     background-color: #f4f4f4;
 }
 
-.projet {
+.projet_stage {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.projet_veille {
     background-color: #fff;
     padding: 20px;
     margin-bottom: 20px;
