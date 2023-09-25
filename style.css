@@ -26,14 +26,14 @@ section {
     background-color: #f4f4f4;
 }
 
-.veille_header {
-    background: linear-gradient(to bottom, #333, #424242);
+.projet {
+    background-color: #fff;
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-.veille img {
+.projet img {
     max-width: 100%;
 }
 
