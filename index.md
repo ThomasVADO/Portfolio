@@ -11,13 +11,13 @@
         <h1>Mon Portfolio</h1>
     </header>
     <!-- Section Projets -->
-    <section id="ban">
-        <div class="veille_header">
-            <img src="veille.jpg" alt="Projet 1">
-            <h2>VEILLE TECHNOLOGIQUE</h2>
+    <section id="projets">
+        <div class="projet">
+            <img src="projet1.jpg" alt="Projet 1">
+            <h2>Projet 1</h2>
             <p>Description du projet 1.</p>
         </div>
-        <div class="stage_header">
+        <div class="projet">
             <img src="projet2.jpg" alt="Projet 2">
             <h2>Projet 2</h2>
             <p>Description du projet 2.</p>
