@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -9,6 +10,7 @@
     <header>
         <h1>Mon Portfolio</h1>
     </header>
+    <!-- Section Projets -->
     <section id="ban">
         <div class="veille_header">
             <img src="veille.jpg" alt="Projet 1">
@@ -38,28 +40,3 @@
     </footer>
 </body>
 </html>
-
-<h3>
-    <ul>
-        <li><a href="veille">Ma veille technologique</a></li>
-        <li><a href=".">Accueil du site</a></li>
-    </ul>
-</h3>
-<h4>
-    <table>  
-        <caption>Information sur le Stage de 1ere Année</caption>
-            <tr> 
-                <th>Nom de l'organisation</th><td>RSMAM</td>
-            </tr>
-            <tr> 
-                <th>Adresse</th><td>RSMA de la Martinique Chemin du Bois Neuf – Gondeau 92732 Le Lamentin</td>
-            </tr>
-            <tr> 
-                <th>Tuteur(s)</th><td>ADJ Armel LIMOAN</td><td>SGC Mathieu CAMPANELLA</td><td>CCH Mickael NAVARRO</td>
-            </tr>
-
-
-</table>
-</h4>
-
-                    
