@@ -35,8 +35,8 @@ header h1 {
 /* Style des boîtes de projets */
 .projet_stage,
 .projet_veille {
-    background-color: #9c27b0;
-    color: #fff;
+    background-color: #ffcc80;
+    color: #333;
     text-align: center;
     padding: 20px;
     margin: 10px;
@@ -46,7 +46,7 @@ header h1 {
 
 .projet_stage:hover,
 .projet_veille:hover {
-    background-color: #673ab7;
+    background-color: #ffd180;
 }
 
 /* Style de la section À propos de moi */
@@ -58,7 +58,7 @@ header h1 {
 
 /* Style de la section Contact */
 #contact {
-    background-color: #9c27b0;
+    background-color: #6a1b9a;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -74,11 +74,11 @@ footer {
 
 /* Liens */
 a {
-    color: #673ab7;
+    color: #6a1b9a;
     text-decoration: none;
     transition: color 0.3s;
 }
 
 a:hover {
-    color: #9c27b0;
+    color: #ffcc80;
 }
