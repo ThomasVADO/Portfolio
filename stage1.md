@@ -1,32 +1,45 @@
-<h1>Stage 1ere Année</h1>
-Présentation du stage de première année
-<header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container">
-            <a class="navbar-brand" href="#">Mon Site</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Accueil</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">À propos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Services</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
-                    </li>
-                </ul>
-            </div>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Portfolio</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Créez un fichier CSS externe pour personnaliser le style -->
+</head>
+<body>
+    <header>
+        <h1>Mon Portfolio</h1>
+    </header>
+    <section id="projets">
+        <div class="projet">
+            <img src="projet1.jpg" alt="Projet 1">
+            <h2>Projet 1</h2>
+            <p>Description du projet 1.</p>
         </div>
-    </nav>
-</header>
-<!-- Liste / Sommaire-->
+        <div class="projet">
+            <img src="projet2.jpg" alt="Projet 2">
+            <h2>Projet 2</h2>
+            <p>Description du projet 2.</p>
+        </div>
+        <!-- Ajoutez plus de projets ici -->
+    </section>
+    <!-- Section À propos -->
+    <section id="apropos">
+        <h2>À propos de moi</h2>
+        <p>Je suis un développeur web passionné par la création de sites Web innovants et fonctionnels.</p>
+    </section>
+    <!-- Section Contact -->
+    <section id="contact">
+        <h2>Contactez-moi</h2>
+        <p>Vous pouvez me contacter à l'adresse email@example.com.</p>
+    </section>
+    <!-- Ajoutez d'autres sections au besoin -->
+    <footer>
+        <p>&copy; 2023 Mon Portfolio</p>
+    </footer>
+</body>
+</html>
+
 <h3>
     <ul>
         <li><a href="veille">Ma veille technologique</a></li>

@@ -1,0 +1,66 @@
+/* Styles généraux */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+section {
+    padding: 40px;
+}
+
+/* Styles de la section Projets */
+#projets {
+    background-color: #f4f4f4;
+}
+
+.projet {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.projet img {
+    max-width: 100%;
+}
+
+/* Styles de la section À propos */
+#apropos {
+    background-color: #e6e6e6;
+}
+
+/* Styles de la section Contact */
+#contact {
+    background-color: #f4f4f4;
+}
+
+/* Styles pour le pied de page */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Styles pour les liens */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
