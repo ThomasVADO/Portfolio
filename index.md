@@ -10,12 +10,12 @@
         <h1>Mon Portfolio</h1>
     </header>
     <section id="veille">
-        <div class="veille">
+        <div class="veille_header">
             <img src="veille.jpg" alt="Projet 1">
             <h2>VEILLE TECHNOLOGIQUE</h2>
             <p>Description du projet 1.</p>
         </div>
-        <div class="projet">
+        <div class="stage_header">
             <img src="projet2.jpg" alt="Projet 2">
             <h2>Projet 2</h2>
             <p>Description du projet 2.</p>
