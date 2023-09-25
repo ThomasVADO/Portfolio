@@ -6,13 +6,14 @@ body, h1, h2, p {
 
 /* Style de base pour le corps du site */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
 }
 
 /* Style de l'en-tête */
 header {
-    background-color: #6a1b9a;
+    background-color: #222;
     color: #fff;
     text-align: center;
     padding: 20px 0;
@@ -20,65 +21,69 @@ header {
 
 /* Style du titre de l'en-tête */
 header h1 {
-    font-size: 2em;
+    font-size: 3em;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 /* Style de la section Projets */
 #projets {
     background-color: #fff;
-    padding: 20px;
+    padding: 40px 0;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
 /* Style des boîtes de projets */
 .projet_stage,
 .projet_veille {
-    background-color: #ffcc80;
-    color: #333;
+    background-color: #3498db;
+    color: #fff;
     text-align: center;
-    padding: 20px;
-    margin: 10px;
-    border-radius: 5px;
-    transition: background-color 0.3s;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    transition: background-color 0.3s, transform 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .projet_stage:hover,
 .projet_veille:hover {
-    background-color: #ffd180;
+    background-color: #2980b9;
+    transform: translateY(-5px);
 }
 
 /* Style de la section À propos de moi */
 #apropos {
     background-color: #fff;
-    padding: 20px;
+    padding: 40px 0;
     text-align: center;
 }
 
 /* Style de la section Contact */
 #contact {
-    background-color: #6a1b9a;
+    background-color: #222;
     color: #fff;
-    padding: 20px;
+    padding: 40px 0;
     text-align: center;
 }
 
 /* Style du pied de page */
 footer {
-    background-color: #6a1b9a;
+    background-color: #222;
     color: #fff;
     text-align: center;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 
 /* Liens */
 a {
-    color: #6a1b9a;
+    color: #3498db;
     text-decoration: none;
     transition: color 0.3s;
 }
 
 a:hover {
-    color: #ffcc80;
+    color: #2980b9;
 }
