@@ -95,11 +95,7 @@ a:hover {
     color: #bababa;
 }
 p {
-    color: #2980b9;
+    color: #ffffff;
     text-decoration: none;
     transition: color 0.3s;
-}
-
-p:hover {
-    color: #ffffff;
 }
