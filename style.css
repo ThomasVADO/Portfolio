@@ -36,11 +36,20 @@ header h1 {
 }
 
 /* Style des boîtes de projets */
-.projet_stage,
+.projet_stage {
+    background-color: #3498db;
+    color: #fff;
+    text-align: left;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    transition: background-color 0.3s, transform 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
 .projet_veille {
     background-color: #3498db;
     color: #fff;
-    text-align: center;
+    text-align: right;
     padding: 30px;
     margin: 20px;
     border-radius: 10px;
