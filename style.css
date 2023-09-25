@@ -1,11 +1,9 @@
 /* Styles généraux */
 body {
-    display: flex;
-    flex-direction: column;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f7f7f7; /* Couleur de fond de la page */
+    background-color: #f7f7f7;
 }
 
 header {
@@ -19,35 +17,28 @@ h1 {
     font-size: 2em;
 }
 
-/* Styles de la section Projets */
-#projets {
-    background-color: #eaeaea; /* Couleur de fond de la section Projets */
-    padding: 40px;
+main {
+    padding: 20px;
 }
 
-.projet_stage,
-.projet_veille {
-    background-color: #fff; /* Couleur de fond des projets */
+/* Styles des projets */
+.projet {
+    background-color: #fff;
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-.projet_stage img,
-.projet_veille img {
-    max-width: 100%;
-}
-
 /* Styles de la section À propos */
 #apropos {
-    background-color: #f2f2f2; /* Couleur de fond de la section À propos */
-    padding: 40px;
+    background-color: #f2f2f2;
+    padding: 20px;
 }
 
 /* Styles de la section Contact */
 #contact {
-    background-color: #eaeaea; /* Couleur de fond de la section Contact */
-    padding: 40px;
+    background-color: #eaeaea;
+    padding: 20px;
 }
 
 /* Styles pour le pied de page */
