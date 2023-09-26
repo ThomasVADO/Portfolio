@@ -86,11 +86,11 @@ footer {
 
 /* Liens */
 a {
-    color: #3498db;
+    color: #ffffff;
     text-decoration: none;
     transition: color 0.3s;
 }
 
 a:hover {
-    color: #2980b9;
+    color: #222;
 }
